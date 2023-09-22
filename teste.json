@@ -1,0 +1,74 @@
+[
+    {
+        "nome": "João",
+        "avaliacao" : 4.5,
+        "servico": [
+            {
+                "nome": "Corte Tesoura",
+                "preco": 29
+            },
+            {
+                "nome": "Corte Máquina",
+                "preco": 20
+            },
+            {
+                "nome": "Barba",
+                "preco": 25
+            }
+        ]
+    },
+    {
+        "nome": "André",
+        "avaliacao" : 4.0,
+        "servico": [
+            {
+                "nome": "Corte Tesoura",
+                "preco": 29
+            },
+            {
+                "nome": "Corte Máquina",
+                "preco": 20
+            },
+            {
+                "nome": "Barba",
+                "preco": 25
+            }
+        ]
+    },
+    {
+        "nome": "Carlos",
+        "avaliacao" : 4.9,
+        "servico": [
+            {
+                "nome": "Corte Tesoura",
+                "preco": 29
+            },
+            {
+                "nome": "Corte Máquina",
+                "preco": 20
+            },
+            {
+                "nome": "Barba",
+                "preco": 25
+            }
+        ]
+    },
+    {
+        "nome": "Luiz",
+        "avaliacao" : 3,
+        "servico": [
+            {
+                "nome": "Corte Tesoura",
+                "preco": 29
+            },
+            {
+                "nome": "Corte Máquina",
+                "preco": 20
+            },
+            {
+                "nome": "Barba",
+                "preco": 25
+            }
+        ]
+    }
+]
