@@ -39,7 +39,7 @@ export default class HomeScreen extends Component{
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#f7f8fa'
+        backgroundColor: '#fff'
     },
     droidSafeArea: {
         marginTop: Platform.OS === "android" ? StatusBar.currentHeight : 0
